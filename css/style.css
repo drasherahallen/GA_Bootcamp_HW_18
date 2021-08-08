@@ -1,0 +1,181 @@
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+  background-color: #da9f93;
+ }
+
+
+
+body {
+  background-color: gainsboro;
+  margin: 0;
+  padding: 0;
+
+}
+
+header {
+  background-color: #da9f93;
+
+}
+
+.logo {
+  width: 23.5%;
+  padding: .05%;
+  text-align: center;
+}
+
+nav {
+  width: 74.7%;
+  padding: 1%;
+
+}
+
+.headerul {
+  width: 80%;
+  margin-left: auto;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+
+}
+
+.heroImg {
+  width: 70vw;
+  margin: 0 auto;
+  height: 600px;
+  padding: 25px;
+  padding-bottom: 10%;
+
+}
+
+.content {
+  height: 500px;
+  margin: 0 auto;
+
+}
+
+footer {
+  background-color: #da9f93;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+.footerul {
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+
+.asherahpic {
+  height:600px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  padding: 5%;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size: large;
+
+}
+
+.flexContainer {
+
+ display: flex;
+ width: 33%;
+ margin: 0;
+ padding: 0; 
+
+}
+
+.workGrid {
+  display: grid;
+}
+
+.mySkills {
+width: 30%;
+margin: 0 auto;
+padding: 5%;
+font-family: ;
+}
+
+.flexContainerMyJourney {
+
+  width: 70vw;
+  margin:auto;
+}
+
+.interestPic {
+
+  width: 500px;
+  height: 500px;
+
+}
+
+.flexContainerMySkills {
+
+  width: 70vw;
+  margin: auto;
+}
+
+.flexContainerMyWork {
+
+  width: 70vw;
+  margin: auto;
+
+}
+
+.button {
+  width: 5vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+.grocereasePic {
+  width: 20vw;
+}
+
+.nonProfitPic {
+  width: 20vw;
+}
+
+.govRedesignPic {
+
+  width: 20vw;
+}
+
+.journeyPics {
+  height: 400px;
+}
+
+@media screen and (max-width: 600) {}
+  
+}
+
+.workGrid {
+
+  display: grid;
+}
+
+.my-Skills {
+ display: flex;
+margin: auto;
+justify-content: normal;
+}
